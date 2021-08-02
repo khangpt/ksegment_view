@@ -1,7 +1,5 @@
 library ksegment_view;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'segment/segment_view.dart';
+export 'segment/segment_flip_card.dart';
+export 'segment/segment_pos.dart';
